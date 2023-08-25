@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000FTlA7AAL",
+      "createdByName": "shrvn k",
+      "createdDate": "2023-05-08T12:46:09.000Z",
+      "fileName": "aura/setExpId",
+      "fullName": "setExpId",
+      "id": "0Ab5g000006MoeJCAS",
+      "lastModifiedById": "0055g00000FTlA7AAL",
+      "lastModifiedByName": "shrvn k",
+      "lastModifiedDate": "2023-05-08T12:46:09.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000FTlA7AAL",
+      "createdByName": "shrvn k",
+      "createdDate": "2023-05-08T12:46:09.000Z",
+      "fileName": "aura/loginForm",
+      "fullName": "loginForm",
+      "id": "0Ab5g000006MoeOCAS",
+      "lastModifiedById": "0055g00000FTlA7AAL",
+      "lastModifiedByName": "shrvn k",
+      "lastModifiedDate": "2023-05-08T12:46:09.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000FTlA7AAL",
+      "createdByName": "shrvn k",
+      "createdDate": "2023-05-08T12:46:10.000Z",
+      "fileName": "aura/selfRegister",
+      "fullName": "selfRegister",
+      "id": "0Ab5g000006MoePCAS",
+      "lastModifiedById": "0055g00000FTlA7AAL",
+      "lastModifiedByName": "shrvn k",
+      "lastModifiedDate": "2023-05-08T12:46:10.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000FTlA7AAL",
+      "createdByName": "shrvn k",
+      "createdDate": "2023-08-25T18:29:58.000Z",
+      "fileName": "aura/RecentlyCreatedAccounts",
+      "fullName": "RecentlyCreatedAccounts",
+      "id": "0Ab5g000005m3LDCAY",
+      "lastModifiedById": "0055g00000FTlA7AAL",
+      "lastModifiedByName": "shrvn k",
+      "lastModifiedDate": "2023-08-25T18:43:02.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000FTlA7AAL",
+      "createdByName": "shrvn k",
+      "createdDate": "2023-05-08T12:46:09.000Z",
+      "fileName": "aura/setStartUrl",
+      "fullName": "setStartUrl",
+      "id": "0Ab5g000006MoeKCAS",
+      "lastModifiedById": "0055g00000FTlA7AAL",
+      "lastModifiedByName": "shrvn k",
+      "lastModifiedDate": "2023-05-08T12:46:09.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    },
+    {
+      "createdById": "0055g00000FTlA7AAL",
+      "createdByName": "shrvn k",
+      "createdDate": "2023-05-08T12:46:10.000Z",
+      "fileName": "aura/forgotPassword",
+      "fullName": "forgotPassword",
+      "id": "0Ab5g000006MoeQCAS",
+      "lastModifiedById": "0055g00000FTlA7AAL",
+      "lastModifiedByName": "shrvn k",
+      "lastModifiedDate": "2023-05-08T12:46:10.000Z",
+      "manageableState": "unmanaged",
+      "type": "AuraDefinitionBundle"
+    }
+  ]
+}
